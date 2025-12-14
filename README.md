@@ -40,10 +40,10 @@ Columns are separated by commas ,
 ▶️ How to Run
 1. Give execution permission:
    ```bash
-   chmod +x DBMS Bash Scripting Project.sh
+   chmod +x 'DBMS Bash Scripting Project'.sh
 
 2. Run the script:
-./DBMS Bash Scripting Project.sh
+./'DBMS Bash Scripting Project'.sh
 
 📋 Notes
 Table schemas are stored in the first line of each table file.
